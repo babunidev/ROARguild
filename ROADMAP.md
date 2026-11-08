@@ -19,7 +19,7 @@ This roadmap describes the order in which the project can mature. It is not a da
 - [ ] Decide the final in-game guild name and identity.
 - [ ] Resolve whether Amberhearth is the right direction.
 - [ ] Agree on and adopt a guild charter and community expectations.
-- [ ] Define founding responsibilities and a practical decision-making process.
+- [ ] Define practical responsibilities, including any bank stewardship committee.
 - [ ] Decide how recruitment and welcoming new members should work.
 - [ ] Decide which communication channels are actually needed.
 
@@ -45,18 +45,22 @@ This roadmap describes the order in which the project can mature. It is not a da
 
 **Status: Developing concept**
 
-- [ ] Refine the Oracle's identity, purpose, voice, and boundaries.
-- [ ] Define the member-profile data model and the information sources it may use.
-- [ ] Specify the Discord message collection, summarization, and daily processing workflow.
-- [ ] Define transparency, consent, access, retention, and deletion rules before member-data collection is implemented.
-- [ ] Define the Oracle's authority, daily limits, critical exceptions, and review process.
+- [ ] Refine the Oracle's identity, purpose, voice, and in-world presentation.
+- [ ] Define the full architecture: always-online Discord bot and SQL database on the server, with a periodically active AI agent on the creative's computer.
+- [ ] Define player registration, multiple-character identity, roleplaying character sheets, keyword categories, and the internal 0–100 standing score.
+- [ ] Specify Discord activity logging, daily AI processing, raw-log handling, and the persistent-memory boundary.
+- [ ] Resolve transparency, consent, access, retention, correction, and deletion rules before member-data collection is implemented.
+- [ ] Define the addon data supplied by characters and selected event observers, including the daily guild bank snapshot.
+- [ ] Specify the fire-themed quest, screenshot-and-witness verification, reward, and guild bank committee workflows.
+- [ ] Define the Oracle's delegated rank, role, moderation, timeout, and critical-exception permissions.
+- [ ] Decide how manual in-game rank synchronization and character verification will work.
 - [ ] Decide where the bot implementation will live and verify each integration against the World of Warcraft Forever environment.
 
 ## 5. Review and grow carefully
 
 **Status: Future possibility**
 
-- [ ] Review what works after the first community has taken shape.
+- [ ] Review what works as the community and tools develop.
 - [ ] Consider whether other factions or rulesets should have independent ROAR chapters.
 - [ ] Let future chapters be shaped by the people who take responsibility for them.
 - [ ] Revisit the roadmap as actual experience replaces assumptions.

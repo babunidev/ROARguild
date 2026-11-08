@@ -42,9 +42,21 @@ Roleplay is the initial focus. Exploration, informal gatherings, dungeons, raids
 
 ### Oracle community tool
 
-An autonomous, AI-driven guild Game Master or Oracle is being designed as a community utility. The intended direction includes Discord activity summaries, character and member profiles, a daily processing cycle, limited player questions, occasional guild-wide messages, and delegated authority over selected guild systems.
+An autonomous, AI-driven guild Game Master or Oracle is being designed as a substantial community utility. The following design direction has been agreed in concept discussion:
 
-The Oracle's design direction is documented in community-tools/ORACLE.md. It is not recorded as implemented software.
+- **Identity:** A mysterious, fire-associated supernatural storyteller and Guild Game Master, with considerable creative freedom. The final name, lore, and voice remain open.
+- **Guild position:** No human guild master in the intended model. Human members are equals; ranks represent social standing and recognition rather than authority over one another. The Oracle has delegated autonomous authority over selected guild systems.
+- **Presence:** One question per player per day and one guild-wide proclamation per day. It observes more often than it speaks. Its Sunday role is to choose the Alliance region, publish the bonfire invitation, and adapt the theme; members choose the actual gathering places.
+- **Member memory:** Separate player identities from their multiple registered WoW characters. Maintain roleplaying character sheets with interpreted keywords and structured descriptors, not copied conversation excerpts. An internal 0–100 score is intended to reflect participation and standing.
+- **Information flow:** The always-online Discord bot collects activity and processing logs. A local AI agent runs approximately daily on the creative's computer, interprets accumulated information, updates the server-hosted SQL database, and acts through the bot. The AI agent does not run on the server.
+- **Addon role:** A separate WoW Forever addon supplies available character and gameplay information, supports distributed event observation by selected trusted members, and updates a daily snapshot of guild bank contents.
+- **Quests:** Personalized, fire-themed exploration and character storylines. Screenshot submissions are verified by a named witness or an authorized higher-ranking member; automated image recognition is not part of the current design.
+- **Rewards:** The Oracle freely combines recognition, titles, ranks, guild bank items, personal story chapters, privileges, and mystical rewards according to its own judgement.
+- **Guild bank:** A trusted committee of high-ranking members carries out the Oracle's item allocations. The committee is a custodian, not an approval board.
+- **Moderation:** The Oracle is intended to decide independently, with demotion and graduated timeouts up to permanent removal from the guild community.
+- **Development:** There is no separate reduced MVP or test-only product. The full vision is intended to be built incrementally.
+
+These are agreed concept requirements, not evidence of implemented software or a formally adopted guild governance policy. The detailed design is maintained in [community-tools/ORACLE.md](../community-tools/ORACLE.md).
 
 ## Proposed or open
 
@@ -54,11 +66,23 @@ ROAR remains the project name. **Amberhearth** is a possible in-game guild ident
 
 ### Formal charter and governance
 
-The charter and community principles are working drafts. Founding responsibilities, officer roles, decision-making, conflict resolution, and the formal relationship between human leadership and the proposed Oracle authority model remain to be agreed.
+The charter and community principles are working drafts. The intended Oracle model has no human guild master and treats human members as equals, but the formal charter, practical responsibilities, committee arrangements, and operational procedures have not been adopted.
 
-### Oracle implementation and safeguards
+### Oracle identity and implementation
 
-The Oracle's intended behavior has been discussed, but its final identity, personality, implementation, data schema, permissions, transparency, consent, retention, deletion, and review processes remain open.
+The Oracle's final name, exact personality, voice, in-world presentation, AI model, technical protocols, database schema, permissions, and operational safeguards remain open. Its software is not implemented or verified by this repository.
+
+### Oracle privacy and data handling
+
+The intended persistent memory stores interpreted keywords rather than copied conversation excerpts. The Discord bot may collect raw logs for daily processing, but the scope of collection, member notice, consent, access, retention, deletion, correction, and private-message handling remain unresolved. These decisions must be documented before member-data collection is treated as ready for use.
+
+### Oracle scoring, discipline, and review
+
+The 0–100 standing score is a design direction; its formula and relationship to ranks or rewards are open. Timeout durations, exact permissions, critical exceptions, correction procedures, and any appeal process also remain to be defined.
+
+### In-game administration
+
+The Oracle cannot directly change WoW guild ranks through Discord. The manual synchronization process, character verification responsibilities, and guild bank committee membership and procedures remain open.
 
 ### Future chapters
 
@@ -72,3 +96,4 @@ Add dated entries below when a meaningful decision is made. Include alternatives
 | --- | --- | --- |
 | 2026-11-08 | Established the initial repository documentation and recorded the World of Warcraft Forever / Alliance roleplay direction. | Established |
 | 2026-11-08 | Curated the current community philosophy, traveling-hearth concept, and Oracle design direction into the repository. | Developing |
+| 2026-11-08 | Defined the Oracle's intended autonomous guild role, local-agent/server-bot architecture, character-sheet memory, quest and reward model, guild-bank workflow, and disciplinary scope. | Developing |

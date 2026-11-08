@@ -4,6 +4,17 @@ Meaningful repository changes are recorded here. This is a project documentation
 
 ## 2026-11-08
 
+### Expanded the Oracle design
+
+- Reworked the Oracle brief around the agreed concept of an autonomous, fire-associated Guild Game Master with delegated authority.
+- Documented the intended equal-member guild model, social meaning of ranks, and the absence of a human guild master.
+- Added the local AI agent / always-online Discord bot / server-hosted SQL database architecture.
+- Defined the intended player-and-character model, roleplaying character sheets, interpreted keyword memory, and internal 0–100 standing score.
+- Documented daily questions and proclamations, the Oracle's limited Sunday gathering role, fire-themed quests, and witness-based completion.
+- Added the free-form reward model, daily guild bank snapshots, and the high-rank committee's custodial role.
+- Recorded the intended moderation levels and autonomous decision-making scope.
+- Expanded the privacy and open-design sections, including the distinction between raw processing logs and persistent character-sheet memory.
+
 ### Curated project direction
 
 - Expanded the project description to reflect ROAR as a creative community centered on companionship and shared experiences in Azeroth.
