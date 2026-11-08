@@ -30,7 +30,7 @@ Roleplay, exploration, social time, dungeons, raids, and PvP may all contribute 
 
 ### Respect different characters and playstyles
 
-Do not shame people for their character's race, class, specialization, talents, equipment, or preferred way of playing.
+Do not shame people for their character's race, specialization, talents, or preferred way of playing.
 
 ### Keep the community safe to inhabit
 
