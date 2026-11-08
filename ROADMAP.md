@@ -8,16 +8,17 @@ This roadmap describes the order in which the project can mature. It is not a da
 
 - [x] Create the public repository.
 - [x] Establish the initial documentation structure.
-- [x] Record the current scope and distinguish decisions from proposals.
-- [ ] Review and refine the initial project documents.
+- [x] Record the current game focus and distinguish decisions from proposals.
+- [x] Curate the current community direction and document the Oracle concept.
+- [ ] Continue reviewing and refining the project documents.
 
 ## 1. Settle the guild identity and foundations
 
 **Status: Open / developing**
 
-- [ ] Decide whether ROAR remains the in-game guild name or whether another identity is chosen.
-- [ ] Resolve the Amberhearth alternative.
-- [ ] Agree on a guild charter and community expectations.
+- [ ] Decide the final in-game guild name and identity.
+- [ ] Resolve whether Amberhearth is the right direction.
+- [ ] Agree on and adopt a guild charter and community expectations.
 - [ ] Define founding responsibilities and a practical decision-making process.
 - [ ] Decide how recruitment and welcoming new members should work.
 - [ ] Decide which communication channels are actually needed.
@@ -36,11 +37,22 @@ This roadmap describes the order in which the project can mature. It is not a da
 **Status: Developing**
 
 - [ ] Explore social gatherings and spontaneous adventures.
-- [ ] Develop the Sunday road-bonfire / campfire concept.
+- [ ] Develop the traveling-hearth and Sunday road-bonfire concept.
 - [ ] Decide whether recurring events are useful and, if so, agree on their format and cadence.
 - [ ] Make room for roleplay, exploration, dungeons, raids, and PvP according to member interest.
 
-## 4. Review and grow carefully
+## 4. Develop community tools
+
+**Status: Developing concept**
+
+- [ ] Refine the Oracle's identity, purpose, voice, and boundaries.
+- [ ] Define the member-profile data model and the information sources it may use.
+- [ ] Specify the Discord message collection, summarization, and daily processing workflow.
+- [ ] Define transparency, consent, access, retention, and deletion rules before member-data collection is implemented.
+- [ ] Define the Oracle's authority, daily limits, critical exceptions, and review process.
+- [ ] Decide where the bot implementation will live and verify each integration against the World of Warcraft Forever environment.
+
+## 5. Review and grow carefully
 
 **Status: Future possibility**
 
@@ -51,7 +63,8 @@ This roadmap describes the order in which the project can mature. It is not a da
 
 ## Out of scope for the initial launch
 
-- A multi-ruleset launch.
+- A multi-client or multi-ruleset launch.
 - A mandatory progression, attendance, or raiding structure.
 - Treating future chapters as already operating.
-- World of Warcraft addon implementation, which belongs in the separate RoarForever project.
+- WoW addon source code and addon implementation, which belong in separate repositories.
+- Claiming that a community tool is implemented or operational before it has been built and verified.

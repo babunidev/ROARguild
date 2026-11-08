@@ -2,11 +2,11 @@
 
 ## Purpose
 
-This repository contains both the living material of the guild and the documentation describing how the project is shaped. The two should remain distinguishable.
+This repository contains the living material of the ROAR community and the documentation describing how the project is shaped. Guild content, event concepts, community-tool designs, and project history should remain distinguishable.
 
 ## Status vocabulary
 
-Use these labels in documents whenever the maturity of an idea matters:
+Use these labels whenever the maturity of an idea matters:
 
 | Status | Meaning |
 | --- | --- |
@@ -22,8 +22,9 @@ A document may contain more than one status. Label individual sections when nece
 
 - Root documents describe the project as a whole.
 - docs/ records project decisions, history, documentation rules, and repository structure.
-- guild/ contains the guild's working charter, community principles, governance, and activities.
-- events/ contains event concepts and records.
+- guild/ contains the guild's working charter, community principles, governance, and activity direction.
+- events/ contains event concepts, plans, and records of events that actually take place.
+- community-tools/ contains design documentation for Discord bots and other community utilities. It does not imply that the software is implemented.
 - operations/ contains practical administrative procedures when they are defined.
 - assets/ contains visual and media resources.
 - templates/ contains reusable blank documents.
@@ -31,8 +32,8 @@ A document may contain more than one status. Label individual sections when nece
 ## Source of truth
 
 - Record approved decisions in docs/DECISIONS.md.
-- Keep current working guidance in the relevant guild or operations document.
-- Use ROADMAP.md for future work and CHANGELOG.md for implemented repository changes.
+- Keep current working guidance in the relevant guild, event, or community-tool document.
+- Use ROADMAP.md for future work and CHANGELOG.md for repository changes.
 - Use docs/DEVLOG.md for concise human-readable development history.
 - If two documents disagree, do not silently choose one. Resolve the conflict and update both.
 
@@ -43,4 +44,5 @@ A document may contain more than one status. Label individual sections when nece
 - Distinguish what the creative decided from what AI proposed or implemented.
 - Never invent approvals, dates, events, members, roles, or test results.
 - Update documents alongside meaningful changes.
-- Do not store credentials, private member information, or sensitive personal records in this public repository.
+- Do not store credentials, private member information, private Discord messages, or sensitive personal records in this public repository.
+- For community tools that process member information, document transparency, consent, access, retention, and deletion decisions before describing collection as ready for use.

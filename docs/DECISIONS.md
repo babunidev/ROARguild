@@ -1,48 +1,64 @@
 # Decisions and current direction
 
-This log separates agreed direction from ideas that are still being explored. It is intentionally explicit about uncertainty.
+This document separates established direction from ideas that are still being explored. It is intentionally explicit about uncertainty.
 
 ## Established
 
 ### World of Warcraft Forever is the target
 
-The current guild project is focused on World of Warcraft Forever. This repository does not target other WoW clients.
+The current ROAR community project targets World of Warcraft Forever. This repository does not target other WoW clients, servers, or rulesets.
 
 ### Alliance roleplay is the initial focus
 
-The first community direction is an Alliance roleplaying guild. Other factions or rulesets are not part of the initial launch scope.
+The first community direction is an Alliance roleplaying community. This is the starting point, not a commitment to a multi-faction or multi-ruleset launch.
+
+### ROAR is the project identity
+
+ROAR remains the name of the project and this repository. The in-game guild name is a separate decision and has not been finalized.
 
 ### Welcoming, low-pressure community
 
-The intended community should welcome returning players and newcomers. Participation should be voluntary rather than driven by attendance pressure or mandatory progression.
+The intended community welcomes newcomers and returning players. Participation is voluntary rather than driven by attendance pressure, mandatory progression, or performance expectations.
 
-### This is the guild repository
+### Guiding spirit
 
-ROARguild documents the guild and its community. The RoarForever addon has a separate repository and development history.
+**Play to inspire, not to impress.** Shared experiences, creativity, and companionship take priority over prestige and competition.
+
+### Repository boundaries
+
+This repository documents the guild, its community, events, and community-tool designs. WoW addon source code and software implementation belong in separate repositories.
 
 ## Developing
 
-### Sunday road gatherings
+### Traveling hearth and Sunday gatherings
 
-Sunday bonfires or campfires along Alliance roads have been explored as a recurring social ritual, with room for stories, music, and companionship. The concept is developing; no schedule, route, locations, or event rules are established.
+A traveling fellowship built around roads, campfires, and welcoming places is taking shape as a concept. One proposed Sunday evening tradition would visit different Alliance regions over time, light bonfires along roads and paths, and gather for stories, conversation, and singing.
+
+The concept is developing. No final event name, schedule, route, locations, or organizer structure has been approved.
 
 ### Shared activities
 
-Roleplay, exploration, spontaneous gatherings, dungeons, raids, and PvP are all candidate activities. No fixed activity calendar or mandatory participation track has been approved.
+Roleplay is the initial focus. Exploration, informal gatherings, dungeons, raids, and PvP are possible ways to share the world. No fixed activity calendar or mandatory participation track has been approved.
+
+### Oracle community tool
+
+An autonomous, AI-driven guild Game Master or Oracle is being designed as a community utility. The intended direction includes Discord activity summaries, character and member profiles, a daily processing cycle, limited player questions, occasional guild-wide messages, and delegated authority over selected guild systems.
+
+The Oracle's design direction is documented in community-tools/ORACLE.md. It is not recorded as implemented software.
 
 ## Proposed or open
 
-### Guild identity
+### In-game guild identity
 
-ROAR remains the current project identity. Amberhearth has emerged as an alternative name. The final in-game guild name and identity are open.
+ROAR remains the project name. **Amberhearth** is a possible in-game guild identity, but the final guild name and identity remain open.
 
-### Motto
+### Formal charter and governance
 
-"Play to inspire, not to impress. ROAR stays ROAR." has been explored as a possible motto. It is not recorded as formally adopted.
+The charter and community principles are working drafts. Founding responsibilities, officer roles, decision-making, conflict resolution, and the formal relationship between human leadership and the proposed Oracle authority model remain to be agreed.
 
-### Founding responsibilities and governance
+### Oracle implementation and safeguards
 
-An earlier direction favored founding members sharing responsibility as equals. The formal governance model, responsibilities, and decision-making process remain open and require agreement.
+The Oracle's intended behavior has been discussed, but its final identity, personality, implementation, data schema, permissions, transparency, consent, retention, deletion, and review processes remain open.
 
 ### Future chapters
 
@@ -50,8 +66,9 @@ Other factions or rulesets may be considered later, potentially with people in t
 
 ## Decision history
 
-Add dated entries below when a meaningful decision is made. Include the alternatives considered and the reason for the outcome when that context matters.
+Add dated entries below when a meaningful decision is made. Include alternatives considered and the reason for the outcome when that context matters.
 
 | Date | Decision | Status |
 | --- | --- | --- |
-| 2026-11-08 | Established the initial repository documentation and recorded the current project boundaries. | Established |
+| 2026-11-08 | Established the initial repository documentation and recorded the World of Warcraft Forever / Alliance roleplay direction. | Established |
+| 2026-11-08 | Curated the current community philosophy, traveling-hearth concept, and Oracle design direction into the repository. | Developing |

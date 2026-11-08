@@ -2,11 +2,20 @@
 
 ## Project identity and scope
 
-- This repository is the working home for the ROAR guild and its community.
-- It is not the source repository for the RoarForever World of Warcraft addon.
-- The target game is World of Warcraft Forever.
-- The initial community focus is Alliance roleplay.
-- Do not add support plans for other WoW clients or rulesets as though they are part of the current launch scope.
+- This repository documents ROAR's World of Warcraft Forever community, its guild direction, shared activities, and community-tool concepts.
+- ROAR is the project identity. Do not assume it must also become the final in-game guild name.
+- The initial community focus is Alliance roleplay in World of Warcraft Forever.
+- Target World of Warcraft Forever only. Do not reintroduce Project Epoch, OctoWoW N'Zoth, other clients, or cross-server plans unless the creative explicitly brings them back.
+- This repository may contain design documentation for Discord bots and community utilities. Their source code belongs in separate repositories unless explicitly decided otherwise.
+- WoW addon source code and addon-specific implementation do not belong here.
+
+## Community identity
+
+- The guiding spirit is **Play to inspire, not to impress**.
+- Value companionship, creativity, shared experiences, and belonging over prestige, competition, or rigid expectations.
+- Welcome newcomers, returning players, casual players, and roleplayers.
+- Do not assume every member wants to roleplay constantly, raid, compete, or follow a fixed progression path.
+- Treat proposed guild names, mottos, events, and structures as proposals until approved.
 
 ## Creative authority and attribution
 
@@ -29,6 +38,12 @@ Use these status labels consistently:
 
 Do not turn proposals, assistant suggestions, or historical ideas into settled facts. Preserve uncertainty and record meaningful changes in docs/DECISIONS.md.
 
+For character and story material:
+- Preserve established character facts and continuity.
+- Distinguish established story canon from new ideas and temporary gameplay details.
+- Let stories emerge through gameplay, actions, dialogue, habits, relationships, and small moments.
+- Do not invent major character decisions or revelations without direction.
+
 ## Documentation workflow
 
 - Read the relevant documentation before making structural or policy changes.
@@ -37,15 +52,17 @@ Do not turn proposals, assistant suggestions, or historical ideas into settled f
 - Update CHANGELOG.md for meaningful repository changes.
 - Add concise, publication-safe entries to docs/DEVLOG.md for substantial milestones.
 - Keep guild content separate from repository/process documentation.
+- Keep community-tool design separate from implemented software.
 - Do not claim that an event, policy, role, schedule, or feature exists until it has been approved and implemented.
 - Do not invent dates, attendance expectations, leadership appointments, member lists, or operational procedures.
 
-## Community and privacy
+## Community tools and privacy
 
-- Preserve the welcoming, low-pressure direction.
-- Do not introduce attendance quotas, mandatory activities, or progression requirements without explicit approval.
-- Do not commit passwords, tokens, private contact details, or unnecessary personal/member data.
-- Keep operational documents safe for a public repository unless the creative explicitly changes the repository's visibility and privacy plan.
+- Document the Oracle and other community utilities as concepts until implementation is verified.
+- Clearly distinguish intended behavior from implemented and tested behavior.
+- Do not commit passwords, tokens, private contact details, member profiles, private Discord messages, or unnecessary personal data.
+- Before describing a member-data system as ready for use, document the agreed approach to transparency, consent, access, retention, and deletion. These matters must not be silently assumed.
+- Keep public documentation safe for a public repository.
 
 ## Change discipline
 

@@ -2,24 +2,58 @@
 
 ## The idea
 
-The direction I want to pursue is a guild built around shared play, companionship, and the freedom to enjoy Azeroth in different ways. A guild should give people a reason to meet again, while never making the game feel like another obligation.
+ROAR is a creative community project built around sharing the experience of Azeroth. The aim is a fellowship of people who enjoy inhabiting the world together: playing, exploring, meeting, creating stories, and making memories.
 
-The community should welcome both returning players and people discovering the world for the first time. Belonging should not depend on attendance quotas, performance targets, or choosing one narrow way to play.
+The community should feel welcoming rather than exclusive. People can bring their characters, personalities, stories, ideas, and enthusiasm. Nobody needs to be a dedicated roleplayer, competitive player, or experienced veteran to belong.
+
+The ordinary moments matter. A quiet evening in an inn, a conversation on the road, or a spontaneous gathering can be as meaningful as a dungeon, raid, or great adventure.
+
+## Guiding spirit
+
+**Play to inspire, not to impress.**
+
+Shared experiences matter more than prestige. Creativity matters more than competition. Companionship matters more than rigid expectations.
+
+The guild should give people reasons to meet again without turning the game into another obligation. Participation is voluntary; belonging should not depend on attendance quotas, performance targets, or a single approved way to play.
 
 ## Starting point
 
-World of Warcraft Forever is the project's target environment. The first focus is an Alliance roleplaying community. This is the starting point, not a claim that every future chapter or ruleset has already been planned.
+The project's target environment is **World of Warcraft Forever**. The initial community focus is **Alliance roleplay**.
 
-Roleplay, exploration, spontaneous gatherings, dungeons, raids, and PvP can all have a place in the community. They are possible ways to share the world, not compulsory tracks.
+This is a starting point, not a claim that other factions, clients, servers, or rulesets have been planned. The project should grow from actual people and shared experience rather than assumptions about future chapters.
 
-## Identity still taking shape
+Roleplay, casual play, exploration, spontaneous gatherings, dungeons, raids, and PvP can all have a place. They are possible ways to share the world, not compulsory tracks.
 
-ROAR is the current project identity and the name of this repository. Amberhearth has emerged as an alternative guild identity, but no final naming decision has been made.
+## Characters and storytelling
 
-A recurring Sunday gathering around bonfires or campfires along Alliance roads is also being explored. The idea is to make room for companionship, stories, music, and unhurried time together. Its format, name, locations, and schedule remain open.
+Characters are a central part of how people inhabit Azeroth. Their stories should develop naturally through gameplay: actions, dialogue, habits, relationships, discoveries, and the small details of daily life.
+
+Stories should feel grounded in Warcraft and in the places where they happen. Do not force every character into a grand plot or manufacture drama. Preserve established character facts, distinguish canon from ideas, and leave room for quiet moments and unresolved questions.
+
+## A traveling hearth
+
+**Status: Developing concept.**
+
+One emerging idea is a traveling fellowship built around roads, campfires, and welcoming places throughout Azeroth.
+
+A proposed Sunday evening gathering would visit a different Alliance region over time, light bonfires along roads and paths, and give travelers a place to pause, meet, share stories, and sing. The journey and the company would be the purpose; the gathering would not need a reward or objective to justify it.
+
+The exact name, schedule, routes, locations, and format remain open. This is not yet a confirmed event series.
+
+## Identity
+
+ROAR remains the project name. The final in-game guild name has not been decided.
+
+**Amberhearth** has emerged as a possible guild identity, inspired by the warmth of a shared hearth and the idea that every traveler should have a place to rest. It remains under consideration and must not be presented as the chosen name.
+
+## Community tools
+
+The project may use Discord bots, guild utilities, and other experiments to support shared play and storytelling.
+
+One developing concept is an autonomous Oracle-like guild Game Master that gathers community context, maintains member and guild knowledge, and introduces occasional stories, quests, and recognition. Its design direction is documented in [community-tools/ORACLE.md](community-tools/ORACLE.md). It is a concept, not an implemented feature.
 
 ## What this repository is for
 
-This repository keeps the creative vision, guild documentation, decisions, activity concepts, practical materials, and development history in one place.
+This repository keeps the guild's creative direction, community documents, activity concepts, decisions, practical materials, community-tool designs, and development history together.
 
-It documents the guild and its community. The RoarForever addon is a separate project and is outside this repository's implementation scope.
+It documents the guild and its community. It does not contain WoW addon source code or the implementation of community software; those belong in their own repositories.
