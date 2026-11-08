@@ -97,7 +97,7 @@ The concept places the Oracle above ordinary guild hierarchy for the responsibil
 - Critical situations may require exceptions.
 - It should explain the reasons behind rewards and punishments.
 - Positive recognition and rewards are preferred over punishment where appropriate.
-- It must not shame players for character race, class, specialization, talents, equipment, or playstyle.
+- It must not shame players for character race, specialization, talents, or playstyle.
 - Racism, sexism, harassment, and bullying are incompatible with the intended community.
 - When a dispute requires input, the Oracle may ask the involved people once. If the matter remains undecidable, the discussed concept allows a random or dice-based outcome rather than endless argument.
 
