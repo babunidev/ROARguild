@@ -17,7 +17,7 @@ This document records the intended atmosphere and boundaries for the community. 
 
 The community is not meant to tolerate racism, sexism, harassment, or bullying.
 
-Do not shame members for their character's race, class, specialization, talents, equipment, or playstyle. The point is to share Azeroth, not to police how another person enjoys the game.
+Do not shame members for their character's race, specialization, talents, or playstyle. The point is to share Azeroth, not to police how another person enjoys the game.
 
 Disagreements should be handled constructively rather than turned into public spectacle. The preference is to recognize positive contributions and use rewards or encouragement where possible rather than defaulting to punishment.
 
