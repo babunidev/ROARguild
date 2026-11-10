@@ -3,10 +3,6 @@
 ## 10 November 2026 — Making the guild documentation readable
 
 As Amberhearth took shape as an actual fellowship, the older repository pages still described its name and Sunday fires as undecided concepts. The documentation was reorganized around what readers need to understand first: the relationship between ROAR and Amberhearth, the atmosphere of the guild, and the distinction between Eldgrim's story and its supporting software. AI assisted with the editorial rewrite and status reconciliation; no event, rule ratification or software test is implied by these documentation changes.
-
-
-A concise account of meaningful moments in the making of ROARguild. Entries are written from the human creative's perspective and distinguish direction from implementation.
-
 ## 2026-11-08 — Defining the Oracle's operating model
 
 The latest design discussion clarified what I want the Oracle to become: not a conventional chatbot, but an autonomous supernatural Guild Game Master with a place in the guild's stories and delegated responsibility for selected community systems.
