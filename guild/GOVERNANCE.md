@@ -26,7 +26,7 @@ Within this intended scope, Eldgrim makes its own decisions. Routine decisions d
 
 Eldgrim's authority is distinct from human members' standing among themselves. It is not a human guild master or an officer who commands the membership.
 
-See [Eldgrim design brief](../community-tools/ORACLE.md) for the complete concept.
+See [Eldgrim's current working governance chapters](https://github.com/babunidev/eldgrim/tree/main/governance) for the actively developed framework. The [earlier Oracle brief](../community-tools/ORACLE.md) is retained as a historical design snapshot, not present policy.
 
 ## Guild bank stewardship
 
