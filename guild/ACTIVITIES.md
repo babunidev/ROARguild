@@ -18,7 +18,7 @@ Roleplay is the initial community focus, but members should not be expected to r
 | Dungeons | Proposed | Group content when members feel like running it. |
 | Raids | Proposed | No progression schedule or attendance requirement has been established. |
 | PvP | Proposed | An optional activity, depending on member interest. |
-| Traveling-hearth gatherings | Developing | A possible Sunday tradition of lighting fires along roads and meeting fellow travelers; see events/sunday-campfires/. |
+| Amberhearth Sunday bonfires | Planned tradition | Traveling between Alliance regions, lighting fires along roads and meeting fellow travelers; see [Sunday bonfires](../events/sunday-campfires/README.md). |
 
 ## Principles for activities
 
