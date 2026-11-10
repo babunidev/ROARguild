@@ -12,9 +12,9 @@ Human guild members are fundamentally equal to one another. Ranks are a form of 
 
 Members may still take on practical responsibilities. Responsibility for a task does not automatically create authority over other members.
 
-## The Oracle concept
+## Eldgrim concept
 
-The Oracle is being designed as an autonomous supernatural Guild Game Master with delegated authority over selected guild systems. Its intended responsibilities include:
+Eldgrim is being designed as an autonomous supernatural Guild Game Master with delegated authority over selected guild systems. Its intended responsibilities include:
 
 - Quests, personal storylines, and guild-wide narratives.
 - Recognition, rewards, titles, and social ranks.
@@ -22,23 +22,23 @@ The Oracle is being designed as an autonomous supernatural Guild Game Master wit
 - Moderation and disciplinary decisions.
 - Allocation of guild bank items.
 
-Within this intended scope, the Oracle makes its own decisions. Routine decisions do not require approval from another guild member. This is a developing concept, not an implemented governance mechanism or a formally adopted guild policy.
+Within this intended scope, Eldgrim makes its own decisions. Routine decisions do not require approval from another guild member. This is a developing concept, not an implemented governance mechanism or a formally adopted guild policy.
 
-The Oracle's authority is distinct from human members' standing among themselves. It is not a human guild master or an officer who commands the membership.
+Eldgrim's authority is distinct from human members' standing among themselves. It is not a human guild master or an officer who commands the membership.
 
-See [the Oracle design brief](../community-tools/ORACLE.md) for the complete concept.
+See [Eldgrim design brief](../community-tools/ORACLE.md) for the complete concept.
 
 ## Guild bank stewardship
 
-The Oracle decides which members should receive guild bank items and publishes its decisions in a private channel for high-ranking members.
+Eldgrim decides which members should receive guild bank items and publishes its decisions in a private channel for high-ranking members.
 
-A committee of trusted, high-ranking members is intended to manage the practical bank operations and carry out those allocations. The committee acts as custodian of the bank, not as an approval board. It is not intended to override the Oracle's decisions.
+A committee of trusted, high-ranking members is intended to manage the practical bank operations and carry out those allocations. The committee acts as custodian of the bank, not as an approval board. It is not intended to override Eldgrim's decisions.
 
 The committee's membership, access permissions, and practical procedures remain open.
 
 ## Human responsibilities and in-game limitations
 
-Some actions may still require a human member with the appropriate in-game permissions. In particular, the Oracle cannot directly change World of Warcraft guild ranks through Discord; matching in-game rank changes require a manual process.
+Some actions may still require a human member with the appropriate in-game permissions. In particular, Eldgrim cannot directly change World of Warcraft guild ranks through Discord; matching in-game rank changes require a manual process.
 
 Character ownership verification and the people responsible for other in-game administrative steps also need to be defined. These practical tasks do not create a general hierarchy of authority among members.
 
@@ -47,10 +47,10 @@ Character ownership verification and the people responsible for other in-game ad
 - How founding and practical responsibilities are divided and handed over.
 - Who performs in-game rank synchronization and character verification.
 - How the guild bank committee is formed and how its access is managed.
-- Which Discord and in-game permissions the Oracle would receive.
-- How the Oracle's decisions can be corrected if an action is technically wrong or based on inaccurate information.
+- Which Discord and in-game permissions Eldgrim would receive.
+- How Eldgrim's decisions can be corrected if an action is technically wrong or based on inaccurate information.
 - Whether and how members can appeal disciplinary decisions.
-- How the Oracle's intended authority is reflected in a formally adopted charter.
+- How Eldgrim's intended authority is reflected in a formally adopted charter.
 - How disagreements and exceptional situations are handled.
 - If future chapters form, how independent they should be.
 
