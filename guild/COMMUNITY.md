@@ -21,9 +21,9 @@ Do not shame members for their character's race, specialization, talents, or pla
 
 Disagreements should be handled constructively rather than turned into public spectacle. The preference is to recognize positive contributions and use rewards or encouragement where possible rather than defaulting to punishment.
 
-## The Oracle and community standards
+## Eldgrim and community standards
 
-The developing Oracle concept is expected to operate within these values. It should not punish or shame a player for character choices or playstyle. Its intended authority, moderation boundaries, and decision process are described in [the Oracle design document](../community-tools/ORACLE.md).
+The developing Eldgrim concept is expected to operate within these values. It should not punish or shame a player for character choices or playstyle. Its intended authority, moderation boundaries, and decision process are described in [Eldgrim design document](../community-tools/ORACLE.md).
 
 ## Boundaries still to define
 
