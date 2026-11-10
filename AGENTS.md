@@ -3,7 +3,7 @@
 ## Project identity and scope
 
 - This repository documents ROAR's World of Warcraft Forever community, its guild direction, shared activities, and community-tool concepts.
-- ROAR is the project identity. Do not assume it must also become the final in-game guild name.
+- ROAR is the wider community/project identity; **Amberhearth is the founded in-game Alliance RP guild**. Do not describe the accepted guild name as undecided.
 - The initial community focus is Alliance roleplay in World of Warcraft Forever.
 - Target World of Warcraft Forever only. Do not reintroduce Project Epoch, OctoWoW N'Zoth, other clients, or cross-server plans unless the creative explicitly brings them back.
 - This repository may contain design documentation for Discord bots and community utilities. Their source code belongs in separate repositories unless explicitly decided otherwise.
@@ -11,11 +11,11 @@
 
 ## Community identity
 
-- The guiding spirit is **Play to inspire, not to impress**.
+- Express the community's values through original, concrete language. Do not publish the former guiding motto as a literal slogan.
 - Value companionship, creativity, shared experiences, and belonging over prestige, competition, or rigid expectations.
 - Welcome newcomers, returning players, casual players, and roleplayers.
 - Do not assume every member wants to roleplay constantly, raid, compete, or follow a fixed progression path.
-- Treat proposed guild names, mottos, events, and structures as proposals until approved.
+- Preserve decisions already made: Amberhearth's name and founding, Sunday bonfires as the intended tradition, and Eldgrim's name. Keep individual events, governance powers, and unratified rules clearly marked as planned or proposed.
 
 ## Creative authority and attribution
 
@@ -44,6 +44,13 @@ For character and story material:
 - Let stories emerge through gameplay, actions, dialogue, habits, relationships, and small moments.
 - Do not invent major character decisions or revelations without direction.
 
+## Reader-first documentation
+
+- Write for a visitor before writing for an agent: begin with what this document is, why it matters, and where to read next.
+- Keep current decisions near the top, move historical sequences into dated records, and avoid repeating the same status in every section.
+- Use short paragraphs, descriptive headings and Markdown links. Avoid walls of bullets, dense tables and recycled slogans.
+- Preserve meaningful facts, attribution, uncertainty and older history; never silently rewrite a past decision as though it had always been settled.
+
 ## Documentation workflow
 
 - Read the relevant documentation before making structural or policy changes.
@@ -58,7 +65,7 @@ For character and story material:
 
 ## Community tools and privacy
 
-- Document the Oracle and other community utilities as concepts until implementation is verified.
+- Use **Eldgrim**, not the retired Oracle working label, for current community-tool and narrative references. The Eldgrim bot, local agent, addon and governance drafts have separate implementation and approval states; check their repository.
 - Clearly distinguish intended behavior from implemented and tested behavior.
 - Do not commit passwords, tokens, private contact details, member profiles, private Discord messages, or unnecessary personal data.
 - Before describing a member-data system as ready for use, document the agreed approach to transparency, consent, access, retention, and deletion. These matters must not be silently assumed.
