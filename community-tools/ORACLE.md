@@ -1,5 +1,7 @@
 # The Oracle
 
+> **Historical design snapshot.** The name *Oracle* was the working label before **Eldgrim** was chosen. The system architecture, guild role, privacy limits and governance decisions have since developed in [the Eldgrim repository](https://github.com/babunidev/eldgrim). Statements below about the name being undecided, the daily message model, storage or intended authority reflect their earlier context; they are not current implementation evidence or ratified guild policy.
+
 **Concept status: Developing — the design direction has been agreed, while implementation details remain open.**  
 **Implementation status: Not implemented or verified by this repository.**
 
