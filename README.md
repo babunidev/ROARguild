@@ -1,56 +1,40 @@
-# ROARguild
+# ROAR and Amberhearth
 
-ROAR is a creative community and development project centered on experiencing Azeroth together in **World of Warcraft Forever**.
+**ROAR** is the wider World of Warcraft Forever community and creative project. **Amberhearth** is its Alliance roleplaying fellowship: a welcoming place for travelers, characters, stories and shared time in Azeroth.
 
-The project brings together the social, creative, and practical sides of shared play: building a welcoming community, developing characters and stories, organizing adventures and gatherings, and exploring tools that make the world feel more alive.
+The two names serve different purposes. ROAR connects the wider community and its experiments; Amberhearth gives the in-game fellowship its own life.
 
-## What ROAR is about
+## The fellowship
 
-At its heart, ROAR is about companionship and creativity in Azeroth. The aim is to build a fellowship where people can bring their characters, personalities, stories, ideas, and enthusiasm.
+Amberhearth was registered in-game by **Jasmine Amberbrew** after her encounters with Eldgrim's voice at campfires. In Kharanos, she gathered signatures from generous adventurers to establish the guild.
 
-A member does not need to be a dedicated roleplayer, competitive player, or experienced veteran to belong. Shared experiences matter more than prestige, creativity matters more than competition, and ordinary moments matter as much as great adventures.
+Its atmosphere is deliberately relaxed. Members can arrive with several characters, join a story, travel with friends, or simply spend time around a fire. There are no mandatory economic contributions, performance targets or attendance requirements.
 
-**Guiding spirit: Play to inspire, not to impress.**
+**Current game focus:** World of Warcraft Forever, Alliance RP. Other rulesets are not part of this initial branch.
 
-## Current focus
+## Sundays on the road
 
-- **Game:** World of Warcraft Forever.
-- **Initial community:** Alliance roleplay.
-- **Community approach:** Welcoming, social, creative, and low-pressure.
-- **Project identity:** ROAR remains the project name. The final in-game guild name has not been chosen.
+A regular Sunday tradition is being organized around bonfires in a different region over time. Small fires along a road provide natural places for passersby to stop, talk, celebrate or continue their journey.
 
-The project does not currently target other WoW clients, servers, or rulesets. Future chapters are possibilities to consider later, not part of the initial launch.
+The first announced direction is **Loch Modan, from Thelsamar toward the Valley of Kings**. Planning a gathering is not the same as documenting one that has already taken place; routes, attendance and outcomes should be recorded only when confirmed.
 
-## Project status
+Read [Sunday bonfires](events/sunday-campfires/README.md) for the activity's practical and narrative direction.
 
-This is a living project. Its documents distinguish between:
+## Eldgrim
 
-- **Established** — an agreed direction or constraint.
-- **Developing** — an idea actively being shaped, but not finalized.
-- **Proposed** — an option awaiting consideration or approval.
-- **Open** — a decision that has not been made.
-- **Temporary** — a current arrangement that may change.
+Eldgrim is a mysterious, fire-associated presence within Amberhearth's developing story. The character's public identity and voice, its chapter-by-chapter **working** governance framework, and the related technical workstreams are documented separately in [the Eldgrim repository](https://github.com/babunidev/eldgrim).
 
-**Amberhearth** is a possible in-game guild identity, not a final decision. The traveling Sunday bonfire gathering is a developing concept, not a confirmed event schedule. The Oracle is a developing community-tool concept, not an implemented bot.
+The always-online Discord bot, a planned local AI agent and the WoW Forever recorder have different roles and verification states. A proposed framework is not automatically a binding guild rule; the working charter belongs in this repository.
 
-## Start here
+## Explore the documentation
 
-- [Concept](CONCEPT.md) — the project's purpose, atmosphere, and creative direction.
-- [Roadmap](ROADMAP.md) — staged work without invented deadlines.
-- [Guild documentation](guild/README.md) — community principles, charter, governance, and activities.
-- [Events](events/README.md) — event concepts, plans, and records.
-- [Community tools](community-tools/README.md) — concepts for Discord and other community utilities.
-- [Project decisions](docs/DECISIONS.md) — established direction and unresolved questions.
-- [Documentation guide](docs/DOCUMENTATION.md) — how this repository is maintained.
-- [Project structure](docs/PROJECT_STRUCTURE.md) — folder and file responsibilities.
-- [Development log](docs/DEVLOG.md) — meaningful project milestones.
+| Read this if you want… | Start here |
+| --- | --- |
+| The community's purpose and atmosphere | [Concept](CONCEPT.md) · [Guild documents](guild/README.md) |
+| Bonfires and other gatherings | [Events](events/README.md) · [Sunday bonfires](events/sunday-campfires/README.md) |
+| Membership and the working charter | [Charter](guild/CHARTER.md) · [Community](guild/COMMUNITY.md) · [Governance](guild/GOVERNANCE.md) |
+| Decisions and what remains open | [Decisions](docs/DECISIONS.md) · [Roadmap](ROADMAP.md) |
+| How the project developed | [Development journal](docs/DEVLOG.md) · [Changelog](CHANGELOG.md) |
+| Software and agent concepts | [Community tools](community-tools/README.md) · [Eldgrim](https://github.com/babunidev/eldgrim) |
 
-## Repository scope
-
-This repository holds the guild's community documentation, activity concepts, project history, and design notes for community tools.
-
-It may document how a Discord bot or other utility is intended to support the community, but it is not the source-code repository for those tools. WoW addon source code and addon-specific technical development belong in their own repositories. Community tools may consume data from a separate addon, but that does not move addon implementation into this repository.
-
-## Working principle
-
-Build a place where people want to spend time together in Azeroth. Do not turn companionship into a performance requirement or make every gathering depend on a reward, progression goal, or formal event.
+This repository documents community life and creative decisions. Addon code, Discord bot code and agent implementation belong in their own repositories. Read [AGENTS.md](AGENTS.md) and the [documentation guide](docs/DOCUMENTATION.md) before changing these records.
