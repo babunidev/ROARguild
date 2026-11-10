@@ -37,6 +37,12 @@ A document may contain more than one status. Label individual sections when nece
 - Use docs/DEVLOG.md for concise human-readable development history.
 - If two documents disagree, do not silently choose one. Resolve the conflict and update both.
 
+## Reading experience
+
+Treat the documentation as a small library for people, not a transcript of development sessions. Each page should answer one question well. Start with its purpose and current meaning; provide a small table of contents only when useful. Prefer descriptive headings, short connected paragraphs, examples where they clarify, and a few carefully chosen links to deeper references.
+
+Keep technical evidence, dated change records and private contributor rules available without making them the first thing a casual reader sees. Avoid long revision notes above the introduction, repeated status disclaimers, duplicate background sections, literal motto repetition, and giant ungrouped lists. Do not sacrifice accuracy, status distinctions or attribution for simplicity.
+
 ## Writing and maintenance
 
 - Write clearly and avoid unnecessary jargon.
