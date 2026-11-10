@@ -1,59 +1,41 @@
-# Concept
+# ROAR and Amberhearth — concept
 
-## The idea
+## A community that makes room
 
-ROAR is a creative community project built around sharing the experience of Azeroth. The aim is a fellowship of people who enjoy inhabiting the world together: playing, exploring, meeting, creating stories, and making memories.
+ROAR began with a simple pleasure: being together in Azeroth. A character might arrive for a dungeon, a conversation on the road, a spontaneous emote, or an evening that turns into a story. No single activity defines the people who belong.
 
-The community should feel welcoming rather than exclusive. People can bring their characters, personalities, stories, ideas, and enthusiasm. Nobody needs to be a dedicated roleplayer, competitive player, or experienced veteran to belong.
+The community leaves room for newcomers, returning players, roleplayers and people who simply enjoy inhabiting the world. Progression and performance can be enjoyable without becoming requirements for friendship.
 
-The ordinary moments matter. A quiet evening in an inn, a conversation on the road, or a spontaneous gathering can be as meaningful as a dungeon, raid, or great adventure.
+## Two related identities
 
-## Guiding spirit
+**ROAR** is the wider community and creative project. **Amberhearth** is its founded Alliance RP guild in World of Warcraft Forever.
 
-**Play to inspire, not to impress.**
+The Amberhearth identity grew from the image of a traveling hearth: people gathering along roads, tending fires and welcoming whoever happens by. Jasmine Amberbrew registered the guild after encountering Eldgrim's voice at the fires and collecting the signatures needed to found it.
 
-Shared experiences matter more than prestige. Creativity matters more than competition. Companionship matters more than rigid expectations.
+Other rulesets or communities may eventually have their own organizers. They are not commitments of the current Alliance RP branch.
 
-The guild should give people reasons to meet again without turning the game into another obligation. Participation is voluntary; belonging should not depend on attendance quotas, performance targets, or a single approved way to play.
+## Gathering around the fires
 
-## Starting point
+A recurring Sunday journey gives the fellowship an excuse to explore a different region together. Campfires along main roads create small, informal meeting places. Some characters talk, sing, dance or share tales; others stop briefly before moving on.
 
-The project's target environment is **World of Warcraft Forever**. The initial community focus is **Alliance roleplay**.
+The first planned route follows Loch Modan from **Thelsamar toward the Valley of Kings**. Specific times and actual event outcomes are recorded separately in [the event documentation](events/sunday-campfires/README.md).
 
-This is a starting point, not a claim that other factions, clients, servers, or rulesets have been planned. The project should grow from actual people and shared experience rather than assumptions about future chapters.
+The event exists for the people and the atmosphere, not for a reward, attendance quota or progression check.
 
-Roleplay, casual play, exploration, spontaneous gatherings, dungeons, raids, and PvP can all have a place. They are possible ways to share the world, not compulsory tracks.
+## Characters and stories
 
-## Characters and storytelling
+Stories grow from play: familiar habits, friendships, food, craft, journeys, small misunderstandings and the occasional surprising encounter. Quiet moments deserve as much attention as dramatic ones.
 
-Characters are a central part of how people inhabit Azeroth. Their stories should develop naturally through gameplay: actions, dialogue, habits, relationships, discoveries, and the small details of daily life.
+Established character facts are not interchangeable with narrative invention. New scenes may suggest possibilities without silently changing canon. The aim is a lived-in world, not a plot that every member must perform.
 
-Stories should feel grounded in Warcraft and in the places where they happen. Do not force every character into a grand plot or manufacture drama. Preserve established character facts, distinguish canon from ideas, and leave room for quiet moments and unresolved questions.
+## Eldgrim and the tools behind the story
 
-## A traveling hearth
+Eldgrim is a developing in-world presence in Amberhearth's narrative. Its public portrayal and the planned software that supports the experience belong to [the Eldgrim project](https://github.com/babunidev/eldgrim).
 
-**Status: Developing concept.**
+That project distinguishes an always-online Discord bot, a locally run AI agent and a separate WoW Forever addon. Technical capability does not establish a character's in-world powers; design notes do not prove implementation. Eldgrim's governance drafts are still working documents, not ratified guild policy.
 
-One emerging idea is a traveling fellowship built around roads, campfires, and welcoming places throughout Azeroth.
+## What this repository preserves
 
-A proposed Sunday evening gathering would visit a different Alliance region over time, light bonfires along roads and paths, and give travelers a place to pause, meet, share stories, and sing. The journey and the company would be the purpose; the gathering would not need a reward or objective to justify it.
+Here belong the community's creative direction, guild documentation, bonfire plans and records, decisions, development history and conceptual links to related tools. Software source and secrets belong elsewhere.
 
-The exact name, schedule, routes, locations, and format remain open. This is not yet a confirmed event series.
-
-## Identity
-
-ROAR remains the project name. The final in-game guild name has not been decided.
-
-**Amberhearth** has emerged as a possible guild identity, inspired by the warmth of a shared hearth and the idea that every traveler should have a place to rest. It remains under consideration and must not be presented as the chosen name.
-
-## Community tools
-
-The project may use Discord bots, guild utilities, and other experiments to support shared play and storytelling.
-
-One developing concept is an autonomous Oracle-like guild Game Master that gathers community context, maintains member and guild knowledge, and introduces occasional stories, quests, and recognition. Its design direction is documented in [community-tools/ORACLE.md](community-tools/ORACLE.md). It is a concept, not an implemented feature.
-
-## What this repository is for
-
-This repository keeps the guild's creative direction, community documents, activity concepts, decisions, practical materials, community-tool designs, and development history together.
-
-It documents the guild and its community. It does not contain WoW addon source code or the implementation of community software; those belong in their own repositories.
+The [decision record](docs/DECISIONS.md) distinguishes established directions from proposals. The [development journal](docs/DEVLOG.md) preserves the human creative's perspective and the actual contributions made by AI assistance.
