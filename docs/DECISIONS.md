@@ -2,6 +2,21 @@
 
 This document separates established direction from ideas that are still being explored. It is intentionally explicit about uncertainty.
 
+## Current direction — updated 10 November 2026
+
+These decisions supersede the older exploratory status descriptions below without erasing that history.
+
+- **ROAR** is the wider community and project identity. **Amberhearth** is the in-game Alliance RP guild, registered by Jasmine Amberbrew after gathering signatures in Kharanos.
+- **World of Warcraft Forever, Alliance RP** remains the starting ruleset.
+- **Sunday bonfires** are the intended recurring gathering format, moving between Alliance regions. The first planned route is Loch Modan, from Thelsamar toward the Valley of Kings. Planning is not evidence that an event has occurred.
+- **Eldgrim** is the accepted name replacing the working label Oracle. Its current rulebook is a non-ratified working framework in the [Eldgrim repository](https://github.com/babunidev/eldgrim). Existing bot functions, planned local AI, and addon capabilities must be evaluated separately.
+- **Participation is voluntary.** No performance, economic-contribution, or attendance requirements are part of the guild's intended social approach. Several characters per member are welcome.
+- **Governance remains subject to formal adoption.** Descriptions of prospective autonomous authority below are historical design intent, not independently ratified or verified practice.
+
+## Earlier concept decisions and proposals
+
+The following sections record the project's earlier understanding. Any statement that Amberhearth's name, Eldgrim's name or the Sunday tradition is still wholly undecided has been superseded by the current-direction section above.
+
 ## Established
 
 ### World of Warcraft Forever is the target
