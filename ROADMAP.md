@@ -9,14 +9,14 @@ This roadmap describes the order in which the project can mature. It is not a da
 - [x] Create the public repository.
 - [x] Establish the initial documentation structure.
 - [x] Record the current game focus and distinguish decisions from proposals.
-- [x] Curate the current community direction and document the Oracle concept.
+- [x] Curate the current community direction and document the Eldgrim concept.
 - [ ] Continue reviewing and refining the project documents.
 
 ## 1. Settle the guild identity and foundations
 
 **Status: Open / developing**
 
-- [ ] Decide the final in-game guild name and identity.
+- [x] Establish **Amberhearth** as the Alliance RP guild name; retain ROAR as the wider project identity.
 - [ ] Resolve whether Amberhearth is the right direction.
 - [ ] Agree on and adopt a guild charter and community expectations.
 - [ ] Define practical responsibilities, including any bank stewardship committee.
@@ -37,7 +37,7 @@ This roadmap describes the order in which the project can mature. It is not a da
 **Status: Developing**
 
 - [ ] Explore social gatherings and spontaneous adventures.
-- [ ] Develop the traveling-hearth and Sunday road-bonfire concept.
+- [x] Establish Sunday road bonfires as the planned community tradition; plan and record individual regional gatherings separately.
 - [ ] Decide whether recurring events are useful and, if so, agree on their format and cadence.
 - [ ] Make room for roleplay, exploration, dungeons, raids, and PvP according to member interest.
 
@@ -45,14 +45,14 @@ This roadmap describes the order in which the project can mature. It is not a da
 
 **Status: Developing concept**
 
-- [ ] Refine the Oracle's identity, purpose, voice, and in-world presentation.
+- [x] Establish the name **Eldgrim** and its high-level storytelling role; continue refining voice and public presentation in the separate Eldgrim repository.
 - [ ] Define the full architecture: always-online Discord bot and SQL database on the server, with a periodically active AI agent on the creative's computer.
 - [ ] Define player registration, multiple-character identity, roleplaying character sheets, keyword categories, and the internal 0–100 standing score.
 - [ ] Specify Discord activity logging, daily AI processing, raw-log handling, and the persistent-memory boundary.
 - [ ] Resolve transparency, consent, access, retention, correction, and deletion rules before member-data collection is implemented.
 - [ ] Define the addon data supplied by characters and selected event observers, including the daily guild bank snapshot.
 - [ ] Specify the fire-themed quest, screenshot-and-witness verification, reward, and guild bank committee workflows.
-- [ ] Define the Oracle's delegated rank, role, moderation, timeout, and critical-exception permissions.
+- [ ] Define the Eldgrim's delegated rank, role, moderation, timeout, and critical-exception permissions.
 - [ ] Decide how manual in-game rank synchronization and character verification will work.
 - [ ] Decide where the bot implementation will live and verify each integration against the World of Warcraft Forever environment.
 
