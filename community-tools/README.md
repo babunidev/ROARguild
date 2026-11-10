@@ -6,7 +6,7 @@ The documents here describe purpose, desired behavior, requirements, and unresol
 
 ## Current concepts
 
-- [The Oracle](ORACLE.md) — a developing concept for an autonomous AI guild Game Master that uses Discord activity and character information to support community memory, stories, quests, and recognition.
+- [Historical Oracle design notes](ORACLE.md) — early material retained as a record of the concept before the name **Eldgrim** was chosen. The active character, agent, bot, addon and governance work now lives in [babunidev/eldgrim](https://github.com/babunidev/eldgrim).
 
 ## Documentation rules
 
