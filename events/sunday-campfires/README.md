@@ -1,29 +1,25 @@
-# Sunday road bonfires and campfires
+# Amberhearth's Sunday bonfires
 
-**Status: Developing concept — not a confirmed event series.**
+**Status:** recurring Sunday tradition established in concept; individual events and their outcomes must be recorded separately.
 
-## The idea
+## An invitation along the road
 
-A traveling fellowship could gather on Sunday evenings and visit a different Alliance region over time. Along roads and paths, members would light bonfires or campfires and make welcoming places for fellow travelers to stop.
+On Sundays, Amberhearth travels to a different region of Azeroth and lights a chain of bonfires along its roads. Each fire is a small meeting place rather than a checkpoint. Travelers may stop to exchange a story, dance, applaud, share a conversation or simply enjoy the company.
 
-The gathering would be about the journey and the company: meeting other players, sharing stories, talking, and singing. It should not need a dungeon, raid, reward, or formal objective to justify the time spent together.
+The gathering is casual. There are no rewards to earn, attendance targets or roleplay performances to prepare. The journey and the people are the occasion.
 
-## Intended feeling
+## First planned route: Loch Modan
 
-The fires are a simple sign of welcome. Someone passing by should be able to approach, listen, join the conversation, or continue along the road. Roleplay can happen naturally, without requiring every participant to perform or prepare a character scene.
+The first planned gathering follows the road **from Thelsamar toward the Valley of Kings**. The route is a planning direction, not a record of completed travel. Confirmed time, meeting instructions and any later event account belong in a dated event notice or report.
 
-## Why explore it
+Future Sundays may visit different Alliance regions, with routes adapted to the people participating.
 
-A recurring social ritual could give the community a familiar point of connection while allowing the landscape of Azeroth to become part of the experience. Visiting a different region over time would keep the journey varied and give the fellowship reasons to travel together.
+## How events are documented
 
-## Still open
+Keep three kinds of information separate:
 
-- Whether the event series will be adopted.
-- Its final name and in-game presentation.
-- Whether it happens every Sunday or on another cadence.
-- Which Alliance regions and routes are suitable.
-- Meeting locations and practical fire placement.
-- Organizers and any practical responsibilities.
-- How roleplay, music, and open participation should work.
+- **Plan:** destination, route, meeting time and intended activities.
+- **Invitation:** what people need to know to join, without promises about attendance.
+- **Record:** what actually happened, grounded in observed participation and any approved screenshots or witness notes.
 
-No date, route, or schedule is currently confirmed. Update this document only as decisions are made and events are actually organized.
+Do not invent routes, members, outcomes or ceremonies to fill gaps. The broader guild context is in [the concept](../../CONCEPT.md) and [guild activities](../../guild/ACTIVITIES.md).
