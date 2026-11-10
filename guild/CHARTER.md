@@ -10,8 +10,6 @@ Build a welcoming place for people to share their time in World of Warcraft Fore
 
 ## Guiding spirit
 
-**Play to inspire, not to impress.**
-
 The community should value companionship and creativity over prestige or competition. Belonging should not depend on performance, attendance, or following one narrow way to play.
 
 ## Guiding principles
@@ -42,12 +40,12 @@ The guild should be shaped through conversation and shared responsibility. The p
 
 ## Still to define
 
-- Final guild name and identity.
+- Formal adoption of the draft charter and any binding guild policy.
 - Membership expectations and a formally adopted code of conduct.
 - Founding and officer responsibilities.
 - Decision-making and conflict resolution.
 - Recruitment and onboarding.
 - Communication channels and event organization.
-- The relationship between human guild governance and the proposed Oracle authority model.
+- The relationship between human guild governance and the proposed Eldgrim authority model.
 
 Changes to this draft should be recorded in docs/DECISIONS.md when they represent an approved decision.
