@@ -48,3 +48,8 @@ Meaningful repository changes are recorded here. This is a project documentation
 
 - These changes establish and curate documentation only.
 - They do not finalize the in-game guild name, formally adopt the charter, appoint leadership, confirm an event schedule, or implement the Oracle.
+
+## 2026-11-13 — License and rights
+
+- Established CC BY-NC-SA 4.0 for original community material and updated repository documentation to explain the permission boundary.
+- Preserved third-party authorship and external assets' separate terms. No gameplay or runtime verification is claimed.
