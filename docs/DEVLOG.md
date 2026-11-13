@@ -36,3 +36,7 @@ The traveling-hearth idea became more specific: a possible Sunday gathering that
 The Oracle also emerged as a substantial community-tool design. Its intended role, Discord information flow, member-profile categories, daily communication limits, and delegated authority are now documented separately. The document records design intent, not completed software.
 
 These updates curate the direction discussed so far. They do not finalize the guild name, adopt the charter, establish governance, schedule an event, or claim that the Oracle has been implemented.
+
+## 2026-11-13 — Giving the repository clear permissions
+
+Public source alone did not explain what others could reuse, so I approved CC BY-NC-SA 4.0 for original community documents, leaving member and game content with its owners. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
