@@ -116,3 +116,7 @@ Add dated entries below when a meaningful decision is made. Include alternatives
 ## 2026-11-13 — Roleplay-led gifts
 
 Eldgrim chooses gifts for the member, character or shared moment. Market value, rarity and scarcity do not affect selection or require additional approval. Custodians carry out legitimate in-game transfers.
+
+## 2026-11-13 — Licensing decision
+
+To make the reuse terms explicit, I approved CC BY-NC-SA 4.0 for original guild and community prose, excluding third-party and member material. This applies only to material for which the relevant rights can be granted; third-party contributors keep their own credits and licenses. AI assistance committed the license notice and updated project-facing documentation. This was a legal/documentation change, not a runtime feature or test.
