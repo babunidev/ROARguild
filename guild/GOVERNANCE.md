@@ -1,57 +1,13 @@
 # Governance and responsibilities
 
-**Status: Open — no formal governance structure has been adopted.**
+This page describes Amberhearth's working governance. The [charter](CHARTER.md) awaits formal adoption.
 
-This document records the intended direction and the questions that remain before the guild's practical governance is settled.
+Guild ranks recognize contribution and carry no automatic authority over other members. The founder can assign practical responsibilities, including character verification, in-game rank changes, bank transfers and review. Assignments are specific and revocable.
 
-## Equal membership and social standing
+Eldgrim's working remit covers storytelling, voluntary quests, recognition, rewards and the Sunday gathering. Members remain free to organize their own activities. Future Discord administration and moderation are limited to delegated operations with independent checks, an audit record and separate activation approval. The current Discord administrative workflow uses manual preview and approval.
 
-The intended guild model has no guild master.
+Bank custodians execute in-game transfers. Reserved, scarce or unusually valuable items require human confirmation of availability and legitimacy. An impartial reviewer can consider disputes and correct substantiated errors.
 
-Human guild members are fundamentally equal to one another. Ranks are a form of social standing, recognition, reputation, or acknowledgement of contribution. They are not military ranks and do not give one member authority to command or govern another.
+Consequential discipline requires reliable evidence, a reason tied to an applicable rule and confidential appeal access even after removal. The founder reviews escalated appeals. An impartial appointed human reviews cases involving the founder. Roles and access are restored where possible when a sanction is overturned. Internal standing alone never establishes misconduct, and missing a gathering or quest carries no penalty.
 
-Members may still take on practical responsibilities. Responsibility for a task does not automatically create authority over other members.
-
-## Eldgrim concept
-
-Eldgrim is being designed as an autonomous supernatural Guild Game Master with delegated authority over selected guild systems. Its intended responsibilities include:
-
-- Quests, personal storylines, and guild-wide narratives.
-- Recognition, rewards, titles, and social ranks.
-- Discord roles and permissions.
-- Moderation and disciplinary decisions.
-- Allocation of guild bank items.
-
-Within this intended scope, Eldgrim makes its own decisions. Routine decisions do not require approval from another guild member. This is a developing concept, not an implemented governance mechanism or a formally adopted guild policy.
-
-Eldgrim's authority is distinct from human members' standing among themselves. It is not a human guild master or an officer who commands the membership.
-
-See [Eldgrim's current working governance chapters](https://github.com/babunidev/eldgrim/tree/main/governance) for the actively developed framework. The [earlier Oracle brief](../community-tools/ORACLE.md) is retained as a historical design snapshot, not present policy.
-
-## Guild bank stewardship
-
-Eldgrim decides which members should receive guild bank items and publishes its decisions in a private channel for high-ranking members.
-
-A committee of trusted, high-ranking members is intended to manage the practical bank operations and carry out those allocations. The committee acts as custodian of the bank, not as an approval board. It is not intended to override Eldgrim's decisions.
-
-The committee's membership, access permissions, and practical procedures remain open.
-
-## Human responsibilities and in-game limitations
-
-Some actions may still require a human member with the appropriate in-game permissions. In particular, Eldgrim cannot directly change World of Warcraft guild ranks through Discord; matching in-game rank changes require a manual process.
-
-Character ownership verification and the people responsible for other in-game administrative steps also need to be defined. These practical tasks do not create a general hierarchy of authority among members.
-
-## Decisions still needed
-
-- How founding and practical responsibilities are divided and handed over.
-- Who performs in-game rank synchronization and character verification.
-- How the guild bank committee is formed and how its access is managed.
-- Which Discord and in-game permissions Eldgrim would receive.
-- How Eldgrim's decisions can be corrected if an action is technically wrong or based on inaccurate information.
-- Whether and how members can appeal disciplinary decisions.
-- How Eldgrim's intended authority is reflected in a formally adopted charter.
-- How disagreements and exceptional situations are handled.
-- If future chapters form, how independent they should be.
-
-Do not invent names, appointments, permissions, or operational procedures. Record a role only after it has been agreed and assigned. Record significant governance decisions in [docs/DECISIONS.md](../docs/DECISIONS.md).
+The [Eldgrim decision register](https://github.com/babunidev/eldgrim/blob/main/governance/QUESTION-DECISIONS.md) records the confirmed working policy. Its [operating procedures](https://github.com/babunidev/eldgrim/blob/main/governance/OPERATING-PROCEDURES.md) specify how to apply it. Before the procedures go live, publish the private reporting and appeal contact, assign the responsible people and record the authorization. The [earlier design brief](../community-tools/ORACLE.md) is retained as project history.

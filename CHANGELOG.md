@@ -2,6 +2,10 @@
 
 Meaningful repository changes are recorded here. This is a project documentation changelog, not a record of in-game character progression.
 
+## 2026-11-13 — Governance reconciliation
+
+- Updated the draft charter and governance guide to reflect confirmed appeal rights, human bank custody and limits on delegated authority.
+
 ## 2026-11-10 — Documentation readability
 
 - Reorganized the community introduction, concept, guild navigation and Sunday bonfire documentation around ROAR and the founded Amberhearth fellowship. Reconciled older Oracle/name descriptions with Eldgrim and the current decisions, without adopting a charter or claiming events occurred.

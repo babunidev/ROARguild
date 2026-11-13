@@ -32,20 +32,14 @@ Do not shame people for their character's race, specialization, talents, or pref
 
 ### Keep the community safe to inhabit
 
-Racism, sexism, harassment, and bullying are incompatible with the intended community. The formal code of conduct and moderation process still need to be discussed and adopted.
+Racism, sexism, harassment, and bullying are incompatible with the intended community. Threats, doxxing, scams and repeated disregard for boundaries are also incompatible with guild life. Consequential discipline requires reliable evidence, a proportionate response and a confidential appeal route, including after removal. See the [working governance](GOVERNANCE.md).
 
 ### Build the community together
 
-The guild should be shaped through conversation and shared responsibility. The precise governance model remains open.
+The guild should be shaped through conversation and shared responsibility. Ranks recognize contributions. Appointed responsibilities carry only the permissions needed for the task. Members may organize activities and propose changes without retaliation.
 
-## Still to define
+## Adoption
 
-- Formal adoption of the draft charter and any binding guild policy.
-- Membership expectations and a formally adopted code of conduct.
-- Founding and officer responsibilities.
-- Decision-making and conflict resolution.
-- Recruitment and onboarding.
-- Communication channels and event organization.
-- The relationship between human guild governance and the proposed Eldgrim authority model.
+For this draft to take effect, the founder approves an identified version, sets an effective date and publishes it where members can access it. Announce material changes and apply new conduct obligations prospectively. Document any delegated powers separately and activate them only after the required safeguards have been verified.
 
-Changes to this draft should be recorded in docs/DECISIONS.md when they represent an approved decision.
+Record adoption and later amendments in [the decision log](../docs/DECISIONS.md).
