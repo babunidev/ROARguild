@@ -38,3 +38,7 @@ The always-online Discord bot, a planned local AI agent and the WoW Forever reco
 | Software and agent concepts | [Community tools](community-tools/README.md) · [Eldgrim](https://github.com/babunidev/eldgrim) |
 
 This repository documents community life and creative decisions. Addon code, Discord bot code and agent implementation belong in their own repositories. Read [AGENTS.md](AGENTS.md) and the [documentation guide](docs/DOCUMENTATION.md) before changing these records.
+
+## License
+
+Original community documentation and prose are shared under [CC BY-NC-SA 4.0](LICENSE). World of Warcraft material, member contributions and other third-party content are excluded from that grant.
