@@ -1,5 +1,7 @@
 # Repository instructions for AI and contributors
 
+Follow [the documentation standard](docs/DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+
 ## Project identity and scope
 
 - This repository documents ROAR's World of Warcraft Forever community, its guild direction, shared activities, and community-tool concepts.
