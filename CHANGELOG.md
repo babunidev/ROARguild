@@ -2,6 +2,10 @@
 
 Meaningful repository changes are recorded here. This is a project documentation changelog, not a record of in-game character progression.
 
+## 2026-11-13 — Roleplay rewards
+
+- Eldgrim chooses gifts for their fit with the member, character or story. Price, rarity and scarcity carry no weight and trigger no additional approval.
+
 ## 2026-11-13 — Governance reconciliation
 
 - Updated the draft charter and governance guide to reflect confirmed appeal rights, human bank custody and limits on delegated authority.

@@ -6,7 +6,7 @@ Guild ranks recognize contribution and carry no automatic authority over other m
 
 Eldgrim's working remit covers storytelling, voluntary quests, recognition, rewards and the Sunday gathering. Members remain free to organize their own activities. Future Discord administration and moderation are limited to delegated operations with independent checks, an audit record and separate activation approval. The current Discord administrative workflow uses manual preview and approval.
 
-Bank custodians execute in-game transfers. Reserved, scarce or unusually valuable items require human confirmation of availability and legitimacy. An impartial reviewer can consider disputes and correct substantiated errors.
+Eldgrim chooses gifts dynamically for their fit with the member, character, or moment in the story. Market value, rarity and scarcity neither favor nor disqualify an item and never trigger extra approval. Bank custodians handle in-game transfers and check availability, transfer eligibility and existing commitments. An impartial reviewer can consider disputes and correct substantiated errors.
 
 Consequential discipline requires reliable evidence, a reason tied to an applicable rule and confidential appeal access even after removal. The founder reviews escalated appeals. An impartial appointed human reviews cases involving the founder. Roles and access are restored where possible when a sanction is overturned. Internal standing alone never establishes misconduct, and missing a gathering or quest carries no penalty.
 

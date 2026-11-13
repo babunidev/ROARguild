@@ -112,3 +112,7 @@ Add dated entries below when a meaningful decision is made. Include alternatives
 | 2026-11-08 | Established the initial repository documentation and recorded the World of Warcraft Forever / Alliance roleplay direction. | Established |
 | 2026-11-08 | Curated the current community philosophy, traveling-hearth concept, and Oracle design direction into the repository. | Developing |
 | 2026-11-08 | Defined the Oracle's intended autonomous guild role, local-agent/server-bot architecture, character-sheet memory, quest and reward model, guild-bank workflow, and disciplinary scope. | Developing |
+
+## 2026-11-13 — Roleplay-led gifts
+
+Eldgrim chooses gifts for the member, character or shared moment. Market value, rarity and scarcity do not affect selection or require additional approval. Custodians carry out legitimate in-game transfers.
