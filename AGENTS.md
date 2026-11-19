@@ -77,6 +77,10 @@ For character and story material:
 
 Prefer small, reviewable changes with clear commit messages. Avoid adding software, automation, workflows, or dependencies unless the project needs them and the creative has approved the direction.
 
+## Human–AI collaboration record
+
+`docs/AI_COLLABORATION.md` is the short record of how Babuni works with AI and who did what, with the same text in all of Babuni's repositories. Do not add dated entries, session notes or per-change attribution to it. Record each contribution in `docs/DEVLOG.md` (what Babuni asked for and what the AI did, naming the tool and model) and in `CHANGELOG.md`. Change `docs/AI_COLLABORATION.md` only to add a row to its "Who did what" table when a new AI tool or model starts contributing to this project, or when Babuni revises the shared text.
+
 ## Repository layout
 
 The repository root holds only `README.md`, `AGENTS.md`, `LICENSE` and `CHANGELOG.md` (plus any additional license files). All other documentation lives in `docs/`; put new documents there.
