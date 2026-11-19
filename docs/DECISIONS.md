@@ -2,7 +2,7 @@
 
 This document separates established direction from ideas that are still being explored. It is intentionally explicit about uncertainty.
 
-## Current direction — updated 10 November 2026
+## Current direction — updated 19 November 2026
 
 These decisions supersede the older exploratory status descriptions below without erasing that history.
 
@@ -11,7 +11,8 @@ These decisions supersede the older exploratory status descriptions below withou
 - **Sunday bonfires** are the intended recurring gathering format, moving between Alliance regions. The first planned route is Loch Modan, from Thelsamar toward the Valley of Kings. Planning is not evidence that an event has occurred.
 - **Eldgrim** is the accepted name replacing the working label Oracle. Its current rulebook is a non-ratified working framework in the [Eldgrim repository](https://github.com/babunidev/eldgrim). Existing bot functions, planned local AI, and addon capabilities must be evaluated separately.
 - **Participation is voluntary.** No performance, economic-contribution, or attendance requirements are part of the guild's intended social approach. Several characters per member are welcome.
-- **Governance remains subject to formal adoption.** Descriptions of prospective autonomous authority below are historical design intent, not independently ratified or verified practice.
+- **Amberhearth has adopted its [guild charter](../guild/CHARTER.md) and community expectations.** During the 19 November roadmap review, I confirmed the adoption. ChatGPT (Codex, GPT-6) recorded the decision and aligned the repository documentation.
+- **Delegated governance remains subject to formal adoption.** Descriptions of prospective autonomous authority below are historical design intent, not independently ratified or verified practice.
 
 ## Earlier concept decisions and proposals
 
