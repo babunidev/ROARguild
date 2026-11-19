@@ -18,7 +18,7 @@ This roadmap describes the order in which the project can mature. It is not a da
 
 - [x] Establish **Amberhearth** as the Alliance RP guild name; retain ROAR as the wider project identity.
 - [x] Confirm Amberhearth’s direction as an Alliance roleplaying fellowship within ROAR.
-- [ ] Agree on and adopt a guild charter and community expectations.
+- [x] Adopt the guild charter and community expectations.
 - [ ] Define practical responsibilities, including any bank stewardship committee.
 - [ ] Decide how recruitment and welcoming new members should work.
 - [ ] Decide which communication channels are actually needed.
