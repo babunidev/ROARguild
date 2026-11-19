@@ -1,8 +1,8 @@
 # Guild charter
 
-**Status: Developing draft — not formally adopted.**
+**Status: Adopted.**
 
-This document describes the kind of community the project is trying to build. It is not yet a binding rulebook.
+This charter sets out Amberhearth’s community expectations.
 
 ## Purpose
 
@@ -40,6 +40,6 @@ The guild should be shaped through conversation and shared responsibility. Ranks
 
 ## Adoption
 
-For this draft to take effect, the founder approves an identified version, sets an effective date and publishes it where members can access it. Announce material changes and apply new conduct obligations prospectively. Document any delegated powers separately and activate them only after the required safeguards have been verified.
+For material amendments, the founder approves an identified version, sets an effective date and publishes it where members can access it. Announce material changes and apply new conduct obligations prospectively. Document any delegated powers separately and activate them only after the required safeguards have been verified.
 
 Record adoption and later amendments in [the decision log](../docs/DECISIONS.md).
