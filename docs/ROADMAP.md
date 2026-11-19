@@ -32,7 +32,8 @@ This roadmap describes the order in which the project can mature. It is not a da
 
 - [x] Establish the initial Alliance roleplaying presence in World of Warcraft Forever.
   - Amberhearth is founded, has recruited members in-game, and is ready to welcome more players.
-- [ ] Agree on the minimum practical organization needed to operate the guild.
+- [x] Establish the basic setup for day-to-day guild operations.
+  - The founder confirmed that the current setup is sufficient and that Eldgrim is handling Discord tasks through the [server bot](https://github.com/babunidev/eldgrim/blob/main/bot/README.md).
 - [ ] Prepare a simple introduction for new and returning players.
 - [ ] Keep participation voluntary and avoid creating obligations before they are needed.
 
