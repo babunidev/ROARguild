@@ -4,20 +4,20 @@ This roadmap describes the order in which the project can mature. It is not a da
 
 ## 0. Establish the project foundation
 
-**Status: In progress**
+**Status: Complete**
 
 - [x] Create the public repository.
 - [x] Establish the initial documentation structure.
 - [x] Record the current game focus and distinguish decisions from proposals.
 - [x] Curate the current community direction and document the Eldgrim concept.
-- [ ] Continue reviewing and refining the project documents.
+- [x] Complete the initial review and refinement of the project documents.
 
 ## 1. Settle the guild identity and foundations
 
 **Status: Open / developing**
 
 - [x] Establish **Amberhearth** as the Alliance RP guild name; retain ROAR as the wider project identity.
-- [ ] Resolve whether Amberhearth is the right direction.
+- [x] Confirm Amberhearth’s direction as an Alliance roleplaying fellowship within ROAR.
 - [ ] Agree on and adopt a guild charter and community expectations.
 - [ ] Define practical responsibilities, including any bank stewardship committee.
 - [ ] Decide how recruitment and welcoming new members should work.
@@ -64,6 +64,10 @@ This roadmap describes the order in which the project can mature. It is not a da
 - [ ] Consider whether other factions or rulesets should have independent ROAR chapters.
 - [ ] Let future chapters be shaped by the people who take responsibility for them.
 - [ ] Revisit the roadmap as actual experience replaces assumptions.
+
+## Roadmap review
+
+During the November 2026 review, I confirmed that the initial documentation review was complete and that Amberhearth’s direction was settled. ChatGPT (Codex, GPT-6) reviewed the roadmap and recorded those confirmations.
 
 ## Out of scope for the initial launch
 
