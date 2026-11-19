@@ -1,6 +1,6 @@
 # Governance and responsibilities
 
-This page describes Amberhearth's working governance. The [charter](CHARTER.md) awaits formal adoption.
+This page describes Amberhearth's working governance. The adopted [charter](CHARTER.md) establishes the guild’s community expectations.
 
 Guild ranks recognize contribution and carry no automatic authority over other members. The founder can assign practical responsibilities, including character verification, in-game rank changes, bank transfers and review. Assignments are specific and revocable.
 
