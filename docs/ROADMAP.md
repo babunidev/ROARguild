@@ -23,13 +23,15 @@ This roadmap describes the order in which the project can mature. It is not a da
   - Amberhearth has no guild bank yet. Bank custodians and dispute reviewers have not been appointed. The founder is currently the only high-ranking member. See [Eldgrim’s operating procedures](https://github.com/babunidev/eldgrim/blob/main/governance/OPERATING-PROCEDURES.md#quests-fires-and-bank-stewardship) for the planned workflow.
 - [x] Establish recruitment and onboarding for new members.
   - In-game recruitment is active. The founder posts in chat, and interested players whisper for an invite. Members have joined this way. Discord onboarding uses the [Character Forge](https://github.com/babunidev/eldgrim/blob/main/bot/README.md).
-- [ ] Decide which communication channels are actually needed.
+- [x] Set up the Discord and in-game channels Amberhearth needs to welcome new members.
+  - The current channels are ready for members to use and can evolve as the fellowship grows.
 
 ## 2. Prepare the first community
 
-**Status: Planned direction**
+**Status: In progress**
 
-- [ ] Establish the initial Alliance roleplaying presence in World of Warcraft Forever.
+- [x] Establish the initial Alliance roleplaying presence in World of Warcraft Forever.
+  - Amberhearth is founded, has recruited members in-game, and is ready to welcome more players.
 - [ ] Agree on the minimum practical organization needed to operate the guild.
 - [ ] Prepare a simple introduction for new and returning players.
 - [ ] Keep participation voluntary and avoid creating obligations before they are needed.
