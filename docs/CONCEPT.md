@@ -18,7 +18,7 @@ Other rulesets or communities may eventually have their own organizers. They are
 
 A recurring Sunday journey gives the fellowship an excuse to explore a different region together. Campfires along main roads create small, informal meeting places. Some characters talk, sing, dance or share tales; others stop briefly before moving on.
 
-The first planned route follows Loch Modan from **Thelsamar toward the Valley of Kings**. Specific times and actual event outcomes are recorded separately in [the event documentation](events/sunday-campfires/README.md).
+The first planned route follows Loch Modan from **Thelsamar toward the Valley of Kings**. Specific times and actual event outcomes are recorded separately in [the event documentation](../events/sunday-campfires/README.md).
 
 The event exists for the people and the atmosphere, not for a reward, attendance quota or progression check.
 
@@ -38,4 +38,4 @@ That project distinguishes an always-online Discord bot, a locally run AI agent 
 
 Here belong the community's creative direction, guild documentation, bonfire plans and records, decisions, development history and conceptual links to related tools. Software source and secrets belong elsewhere.
 
-The [decision record](docs/DECISIONS.md) distinguishes established directions from proposals. The [development journal](docs/DEVLOG.md) preserves the human creative's perspective and the actual contributions made by AI assistance.
+The [decision record](DECISIONS.md) distinguishes established directions from proposals. The [development journal](DEVLOG.md) preserves the human creative's perspective and the actual contributions made by AI assistance.

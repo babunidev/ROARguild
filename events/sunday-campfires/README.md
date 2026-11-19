@@ -22,4 +22,4 @@ Keep three kinds of information separate:
 - **Invitation:** what people need to know to join, without promises about attendance.
 - **Record:** what actually happened, grounded in observed participation and any approved screenshots or witness notes.
 
-Do not invent routes, members, outcomes or ceremonies to fill gaps. The broader guild context is in [the concept](../../CONCEPT.md) and [guild activities](../../guild/ACTIVITIES.md).
+Do not invent routes, members, outcomes or ceremonies to fill gaps. The broader guild context is in [the concept](../../docs/CONCEPT.md) and [guild activities](../../guild/ACTIVITIES.md).

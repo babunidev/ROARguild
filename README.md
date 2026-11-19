@@ -30,10 +30,10 @@ The always-online Discord bot, a planned local AI agent and the WoW Forever reco
 
 | Read this if you want… | Start here |
 | --- | --- |
-| The community's purpose and atmosphere | [Concept](CONCEPT.md) · [Guild documents](guild/README.md) |
+| The community's purpose and atmosphere | [Concept](docs/CONCEPT.md) · [Guild documents](guild/README.md) |
 | Bonfires and other gatherings | [Events](events/README.md) · [Sunday bonfires](events/sunday-campfires/README.md) |
 | Membership and the working charter | [Charter](guild/CHARTER.md) · [Community](guild/COMMUNITY.md) · [Governance](guild/GOVERNANCE.md) |
-| Decisions and what remains open | [Decisions](docs/DECISIONS.md) · [Roadmap](ROADMAP.md) |
+| Decisions and what remains open | [Decisions](docs/DECISIONS.md) · [Roadmap](docs/ROADMAP.md) |
 | How the project developed | [Development journal](docs/DEVLOG.md) · [Changelog](CHANGELOG.md) |
 | Software and agent concepts | [Community tools](community-tools/README.md) · [Eldgrim](https://github.com/babunidev/eldgrim) |
 

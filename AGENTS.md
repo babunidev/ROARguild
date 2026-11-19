@@ -76,3 +76,7 @@ For character and story material:
 ## Change discipline
 
 Prefer small, reviewable changes with clear commit messages. Avoid adding software, automation, workflows, or dependencies unless the project needs them and the creative has approved the direction.
+
+## Repository layout
+
+The repository root holds only `README.md`, `AGENTS.md`, `LICENSE` and `CHANGELOG.md` (plus any additional license files). All other documentation lives in `docs/`; put new documents there.
