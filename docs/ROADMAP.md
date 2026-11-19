@@ -34,7 +34,8 @@ This roadmap describes the order in which the project can mature. It is not a da
   - Amberhearth is founded, has recruited members in-game, and is ready to welcome more players.
 - [x] Establish the basic setup for day-to-day guild operations.
   - The founder confirmed that the current setup is sufficient and that Eldgrim is handling Discord tasks through the [server bot](https://github.com/babunidev/eldgrim/blob/main/bot/README.md).
-- [ ] Prepare a simple introduction for new and returning players.
+- [x] Prepare a simple introduction for new and returning players.
+  - The current introduction meets Amberhearth’s needs at this stage.
 - [ ] Keep participation voluntary and avoid creating obligations before they are needed.
 
 ## 3. Develop shared activities
@@ -66,6 +67,7 @@ This roadmap describes the order in which the project can mature. It is not a da
 **Status: Future possibility**
 
 - [ ] Review what works as the community and tools develop.
+- [ ] Expand the [guild charter](../guild/CHARTER.md) into a practical member-facing guide that explains how Amberhearth works and what members can take part in.
 - [ ] Consider whether other factions or rulesets should have independent ROAR chapters.
 - [ ] Let future chapters be shaped by the people who take responsibility for them.
 - [ ] Revisit the roadmap as actual experience replaces assumptions.
